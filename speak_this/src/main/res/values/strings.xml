@@ -1,0 +1,4 @@
+<resources>
+    <string name="text_to_speak">What do I speak ?</string>
+    <string name="toSpeakButton">Speak</string>
+</resources>
